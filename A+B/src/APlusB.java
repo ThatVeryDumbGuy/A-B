@@ -5,6 +5,7 @@ public class APlusB {
 	public static void main (String[] args) {
 		String[] input;
 		int A, B;
+		System.out.println("Spacebar betweens each number");
 		Scanner sc = new Scanner(System.in);
 		
 		input = sc.nextLine().split(" ");
